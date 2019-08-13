@@ -1,0 +1,2 @@
+2019-06-18T16:36:59+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 65536 bytes) in /home/emmykaye6879/public_html/dev.canopy/wp-admin/includes/template.php on line 2402
+

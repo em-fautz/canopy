@@ -1,0 +1,628 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Charity\n"
+"POT-Creation-Date: 2017-11-13 12:32-0200\n"
+"PO-Revision-Date: 2017-01-17 13:05-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;eschtml_e;esc_html_x:1,2c;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: tasks\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+
+#: 404.php:31
+msgid "404"
+msgstr ""
+
+#: 404.php:31
+msgid " error"
+msgstr ""
+
+#: 404.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:36
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48 functions.php:120
+msgid "Footer"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:122
+msgid "Add widgets here."
+msgstr ""
+
+#: hummingbird/dropdown-category.php:40
+msgid "Select"
+msgstr ""
+
+#: hummingbird/filters.php:17
+msgid "Search for:"
+msgstr ""
+
+#: hummingbird/filters.php:20
+msgid "Search"
+msgstr ""
+
+#: hummingbird/filters.php:39
+msgid "comment-form"
+msgstr ""
+
+#: hummingbird/filters.php:40
+msgid "Leave a comment."
+msgstr ""
+
+#: hummingbird/filters.php:43
+msgid "Your email address will not be published. Required fields are marked *."
+msgstr ""
+
+#: hummingbird/filters.php:46
+msgid "submit-btn"
+msgstr ""
+
+#: hummingbird/filters.php:47
+msgid "Post A Comment"
+msgstr ""
+
+#: hummingbird/hooks.php:268
+msgid "You are here:"
+msgstr ""
+
+#: hummingbird/options.php:4
+msgid "HB Charity Theme Options"
+msgstr ""
+
+#: hummingbird/options.php:5
+msgid "HB Charity Theme Customization Options"
+msgstr ""
+
+#: hummingbird/options.php:14
+msgid "Carousel Section"
+msgstr ""
+
+#: hummingbird/options.php:15
+msgid "Configure Image Carousel"
+msgstr ""
+
+#: hummingbird/options.php:26 hummingbird/options.php:205
+msgid "Choose Category"
+msgstr ""
+
+#: hummingbird/options.php:38 hummingbird/options.php:218
+msgid "No of Posts"
+msgstr ""
+
+#: hummingbird/options.php:50 hummingbird/options.php:700
+msgid "Button Title"
+msgstr ""
+
+#: hummingbird/options.php:62
+msgid "Services Section"
+msgstr ""
+
+#: hummingbird/options.php:63
+msgid "Configure Icons and Pages For Services"
+msgstr ""
+
+#: hummingbird/options.php:76
+msgid "Icon For Service "
+msgstr ""
+
+#: hummingbird/options.php:89
+msgid "Page For Service "
+msgstr ""
+
+#: hummingbird/options.php:102
+msgid "About Section"
+msgstr ""
+
+#: hummingbird/options.php:103
+msgid "Configure About Section"
+msgstr ""
+
+#: hummingbird/options.php:113 hummingbird/options.php:179
+#: hummingbird/options.php:407 hummingbird/options.php:457
+#: hummingbird/options.php:520 hummingbird/options.php:571
+#: hummingbird/options.php:622
+msgid "Section Title"
+msgstr ""
+
+#: hummingbird/options.php:125
+msgid "Select Page"
+msgstr ""
+
+#: hummingbird/options.php:142
+msgid "Icon For Sub Page "
+msgstr ""
+
+#: hummingbird/options.php:155
+msgid "Page For Sub Page "
+msgstr ""
+
+#: hummingbird/options.php:168
+msgid "Causes Section"
+msgstr ""
+
+#: hummingbird/options.php:169
+msgid "Configure Causes Section"
+msgstr ""
+
+#: hummingbird/options.php:191 hummingbird/options.php:469
+msgid "Section Sub Title"
+msgstr ""
+
+#: hummingbird/options.php:230
+msgid "Counter Section"
+msgstr ""
+
+#: hummingbird/options.php:231
+msgid "Configure Counter Section"
+msgstr ""
+
+#: hummingbird/options.php:245
+msgid "Counter Icon "
+msgstr ""
+
+#: hummingbird/options.php:258
+msgid "Counter Title "
+msgstr ""
+
+#: hummingbird/options.php:271
+msgid "Counter Number "
+msgstr ""
+
+#: hummingbird/options.php:284
+msgid "Event & Gallery Section"
+msgstr ""
+
+#: hummingbird/options.php:285
+msgid "Configure Event & Gallery Section"
+msgstr ""
+
+#: hummingbird/options.php:295
+msgid "Event Section Title"
+msgstr ""
+
+#: hummingbird/options.php:309
+msgid "Choose Event Category"
+msgstr ""
+
+#: hummingbird/options.php:322 hummingbird/options.php:434
+msgid "No of Event Posts"
+msgstr ""
+
+#: hummingbird/options.php:334
+msgid "Gallery Section Title"
+msgstr ""
+
+#: hummingbird/options.php:348
+msgid "Choose Gallery Category"
+msgstr ""
+
+#: hummingbird/options.php:361
+msgid "No of Gallery Posts"
+msgstr ""
+
+#: hummingbird/options.php:373
+msgid "Main Highlight Section"
+msgstr ""
+
+#: hummingbird/options.php:374
+msgid "Configure Main Highlight Section"
+msgstr ""
+
+#: hummingbird/options.php:384
+msgid "Select Page For Highlight"
+msgstr ""
+
+#: hummingbird/options.php:396
+msgid "Success Story Section"
+msgstr ""
+
+#: hummingbird/options.php:397
+msgid "Configure Success Story Section"
+msgstr ""
+
+#: hummingbird/options.php:421
+msgid "Choose Success Story Category"
+msgstr ""
+
+#: hummingbird/options.php:446
+msgid "Blog Section"
+msgstr ""
+
+#: hummingbird/options.php:447
+msgid "Configure Blog Section"
+msgstr ""
+
+#: hummingbird/options.php:483
+msgid "Choose Blog Category"
+msgstr ""
+
+#: hummingbird/options.php:496
+msgid "No of Blog Posts"
+msgstr ""
+
+#: hummingbird/options.php:509
+msgid "Team Section"
+msgstr ""
+
+#: hummingbird/options.php:510
+msgid "Configure Team Section"
+msgstr ""
+
+#: hummingbird/options.php:534
+msgid "Choose Team Category"
+msgstr ""
+
+#: hummingbird/options.php:547
+msgid "No of Members"
+msgstr ""
+
+#: hummingbird/options.php:560
+msgid "Testimonial Section"
+msgstr ""
+
+#: hummingbird/options.php:561
+msgid "Configure Testimonial Section"
+msgstr ""
+
+#: hummingbird/options.php:585
+msgid "Choose Testimonial Category"
+msgstr ""
+
+#: hummingbird/options.php:598
+msgid "No of Testimonial"
+msgstr ""
+
+#: hummingbird/options.php:611
+msgid "Partner Section"
+msgstr ""
+
+#: hummingbird/options.php:612
+msgid "Configure Partner Section"
+msgstr ""
+
+#: hummingbird/options.php:636
+msgid "Choose Partner Category"
+msgstr ""
+
+#: hummingbird/options.php:649
+msgid "No of Partners"
+msgstr ""
+
+#: hummingbird/options.php:662
+msgid "Top Header Option"
+msgstr ""
+
+#: hummingbird/options.php:663
+msgid "Configure Top Header"
+msgstr ""
+
+#: hummingbird/options.php:675
+msgid "Choose Flash Category"
+msgstr ""
+
+#: hummingbird/options.php:688
+msgid "No of Flash Events"
+msgstr ""
+
+#: hummingbird/options.php:701
+msgid "Insert button name."
+msgstr ""
+
+#: hummingbird/options.php:713
+msgid "Button Font"
+msgstr ""
+
+#: hummingbird/options.php:714
+msgid "Insert class of icon form FontAwesome. It is displayed before button name."
+msgstr ""
+
+#: hummingbird/options.php:726
+msgid "Form Shortcode"
+msgstr ""
+
+#: hummingbird/options.php:727
+msgid "Copy and paste shordcode of form form Contact Form 7, Gravity Form etc..."
+msgstr ""
+
+#: hummingbird/options.php:740
+msgid "Bottom Footer Option"
+msgstr ""
+
+#: hummingbird/options.php:741
+msgid "Configure Bottom Footer"
+msgstr ""
+
+#: hummingbird/options.php:751
+msgid "Copyright Text"
+msgstr ""
+
+#: hummingbird/options.php:752
+msgid "Insert copyright text."
+msgstr ""
+
+#: hummingbird/options.php:764
+msgid "Sidebar Option"
+msgstr ""
+
+#: hummingbird/options.php:765
+msgid "Configure Sidebar Position"
+msgstr ""
+
+#: hummingbird/options.php:775
+msgid "Sidebar Position"
+msgstr ""
+
+#: hummingbird/options.php:776
+msgid "Select Sidebar Postion. Select none to hide sidebar."
+msgstr ""
+
+#: hummingbird/options.php:781
+msgid "Left"
+msgstr ""
+
+#: hummingbird/options.php:782
+msgid "Right"
+msgstr ""
+
+#: hummingbird/options.php:783
+msgid "None"
+msgstr ""
+
+#: hummingbird/options.php:794
+msgid "Other Options"
+msgstr ""
+
+#: hummingbird/options.php:795
+msgid "Configure Other Options"
+msgstr ""
+
+#: hummingbird/options.php:805
+msgid "Show Scroll To Top Button"
+msgstr ""
+
+#: hummingbird/options.php:818
+msgid "Excerpt Length"
+msgstr ""
+
+#: hummingbird/options.php:819
+msgid "By default, excerpt length is 40"
+msgstr ""
+
+#: hummingbird/options.php:831
+msgid "Exclude Categories"
+msgstr ""
+
+#: hummingbird/options.php:832
+msgid "Exclude categories form Blog page and Blog section. Insert Category Id Separated By Comma and a space"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:52 sections/section-blog.php:71
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:89 template-parts/content-page.php:46
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: sections/section-about.php:37 sections/section-story.php:66
+#: template-parts/content-archive.php:41 template-parts/content-search.php:52
+msgid "Read More"
+msgstr ""
+
+#: sections/section-blog.php:96 sections/section-causes.php:77
+msgid "View Details"
+msgstr ""
+
+#: sections/section-carousel.php:121
+msgid "Previous"
+msgstr ""
+
+#: sections/section-carousel.php:125
+msgid "Next"
+msgstr ""
+
+#: sections/section-event.php:34
+msgid "d"
+msgstr ""
+
+#: sections/section-event.php:39
+msgid "M"
+msgstr ""
+
+#: sections/section-event.php:44
+msgid "Y"
+msgstr ""
+
+#: sections/section-event.php:72 sections/section-highlight.php:30
+msgid "View More"
+msgstr ""
+
+#: sections/section-services.php:42
+msgid "View Detail"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:33 template-parts/content-single.php:43
+#: template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-pagination.php:13
+msgid "&laquo;"
+msgstr ""
+
+#: template-parts/content-pagination.php:14
+msgid "&raquo;"
+msgstr ""
+
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: third-party/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: third-party/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: third-party/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: third-party/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: third-party/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: third-party/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: third-party/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: third-party/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:758 third-party/breadcrumbs.php:787
+#: third-party/breadcrumbs.php:814 third-party/breadcrumbs.php:841
+#: third-party/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: third-party/breadcrumbs.php:759 third-party/breadcrumbs.php:815
+#: third-party/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: third-party/breadcrumbs.php:760 third-party/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: third-party/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""

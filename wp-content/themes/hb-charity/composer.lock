@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3c6c3e46e99bbcd101ebe2bade6e2b75",
+    "packages": [
+        {
+            "name": "soderlind/customizer-polylang",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thanks-to-it/customizer-polylang.git",
+                "reference": "9f01071b921046ec77db8b1d7a125855e0536dea"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thanks-to-it/customizer-polylang/zipball/9f01071b921046ec77db8b1d7a125855e0536dea",
+                "reference": "9f01071b921046ec77db8b1d7a125855e0536dea",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "customizer-polylang.php"
+                ],
+                "exclude-from-classmap": [
+                    "assets/customizer-polylang.gif"
+                ]
+            },
+            "support": {
+                "source": "https://github.com/thanks-to-it/customizer-polylang/tree/master"
+            },
+            "time": "2018-09-25T02:13:30+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "soderlind/customizer-polylang": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

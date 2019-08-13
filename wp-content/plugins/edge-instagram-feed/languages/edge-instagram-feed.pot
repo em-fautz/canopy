@@ -1,0 +1,119 @@
+# Copyright (C) 2019 Edge Themes
+# This file is distributed under the same license as the Edge Instagram Feed plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Edge Instagram Feed 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edge-instagram-feed\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-10T12:35:51+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: edge-instagram-feed\n"
+
+#. Plugin Name of the plugin
+msgid "Edge Instagram Feed"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that adds Instagram feed functionality to our theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Edge Themes"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:231
+msgid "Can't connect with Instagram"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:251
+msgid "Success"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:267
+msgid "User has'nt connected with Instagram"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:287
+msgid "Can\\t connect with Instagram API"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:303
+msgid "Can\\t get Instagram access token"
+msgstr ""
+
+#: lib/edgtf-instagram-api.php:311
+msgid "Stored access token"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:11
+msgid "Edge Instagram Widget"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:12
+msgid "Display instagram images"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:23
+msgid "Title"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:28
+msgid "Tag"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:33
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:38
+msgid "Number of columns"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:40
+msgid "Two"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:41
+msgid "Three"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:42
+msgid "Four"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:43
+msgid "Six"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:44
+msgid "Eight"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:45
+msgid "Nine"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:51
+msgid "Image Size"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:53
+msgid "Small"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:54
+msgid "Medium"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:55
+msgid "Large"
+msgstr ""
+
+#: widgets/edgtf-instagram-widget.php:61
+msgid "Images Cache Time"
+msgstr ""

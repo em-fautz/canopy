@@ -1,0 +1,15 @@
+{
+  "name": "algoritmika/hb-charity",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/thanks-to-it/customizer-polylang"
+    }
+  ],
+  "config": {
+    "preferred-install": "dist"
+  },
+  "require": {
+    "soderlind/customizer-polylang":"dev-master"
+  }
+}

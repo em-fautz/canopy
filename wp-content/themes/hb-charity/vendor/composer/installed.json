@@ -1,0 +1,32 @@
+[
+    {
+        "name": "soderlind/customizer-polylang",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thanks-to-it/customizer-polylang.git",
+            "reference": "9f01071b921046ec77db8b1d7a125855e0536dea"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thanks-to-it/customizer-polylang/zipball/9f01071b921046ec77db8b1d7a125855e0536dea",
+            "reference": "9f01071b921046ec77db8b1d7a125855e0536dea",
+            "shasum": ""
+        },
+        "time": "2018-09-25T02:13:30+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "customizer-polylang.php"
+            ],
+            "exclude-from-classmap": [
+                "assets/customizer-polylang.gif"
+            ]
+        },
+        "support": {
+            "source": "https://github.com/thanks-to-it/customizer-polylang/tree/master"
+        }
+    }
+]

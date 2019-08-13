@@ -1,0 +1,261 @@
+
+/* 
+    Created on : August 21, 2014, 12:40:32 PM
+    Author     : Bimal Shrestha
+*/
+
+/* for  xs class*/
+* {
+    padding: 0;
+    margin: 0
+}
+
+.padding-left-right-zero {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.padding-right-zero {
+    padding-right: 0
+}
+
+.padding-left-zero {
+    padding-left: 0
+}
+
+.border-b-r-radius {
+    border-bottom-right-radius: 15px
+}
+
+@media (max-width:767px) {
+    .main-header {
+        position: relative;
+        padding-top: 12px;
+        padding-bottom: 12px
+    }
+    .onlineapp {
+        margin-top: 12px
+    }
+    .foot-body {
+        margin-bottom: 30px
+    }
+    .right-links {
+        text-align: center
+    }
+    div.border-bottom {
+        min-height: 380px
+    }
+    .left-links {
+        padding-top: 10px
+    }
+}
+
+@media (max-width:991px) {
+    .im-hiding {
+        display: none
+    }
+    nav {
+        padding-top: 0
+    }
+    .hideme {
+        display: none
+    }
+    .main-nav {
+        width: 100%;
+        z-index: 1111111;
+        position: relative
+    }
+    .main-nav li {
+        display: block;
+        padding: 0!important;
+        width: 100%;
+        border-top: 1px solid #fff;
+        border-bottom: 1px solid #ccc
+    }
+    .main-nav > li a {
+        padding-left: 0
+    }
+    .main-nav ul > li:last-child {
+        border-bottom: none
+    }
+    .main-nav ul li a {
+        padding-left: 35px
+    }
+    .main-nav ul ul li a {
+        padding-left: 70px
+    }
+    .main-nav li a {
+        display: block;
+        color: #fff;
+        line-height: 40px;
+        border-left: none;
+        padding: 0 20px;
+        background-color: #c7c6c6
+    }
+    .main-nav li ul {
+        display: none
+    }
+    .main-nav li a:hover {
+        background-color: #ef1c25
+    }
+    .below {
+        background-image: url(../images/down.png);
+        background-position: 98%!important
+    }
+    .below:hover {
+        background: url(../images/down.png) no-repeat 98% 70% rgba(0, 157, 0, 0.87)
+    }
+    .nav-wrapper {
+        border-bottom: none;
+        margin: 5px 0
+    }
+    .left-links .title {
+        font-size: 16px
+    }
+    .margin-visible-sm {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width:1199px) {
+    .testi-name-wrapper {
+        padding-left: 0
+    }
+    .testi-name:before {
+        position: absolute;
+        content: '';
+        border-style: solid;
+        left: 42%;
+        top: -42%;
+        border-width: 0 0 21px 21px;
+        border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #683D2A
+    }
+    .date {
+        margin-bottom: 5px
+    }
+    .news-body {
+        padding-left: 0
+    }
+    .pager {
+        top: 310px
+    }
+}
+
+@media (min-width:992px) {
+    .im-hiding {
+        display: block!important
+    }
+    .nav-bg {
+        margin-top: 5px
+    }
+    .main-nav > a {
+        line-height: 95px
+    }
+    .main-nav a {
+        color: #000;
+        display: block;
+        padding: 12px 13px
+    }
+    .main-nav >li {
+        float: left
+    }
+    .main-nav li {
+        position: relative
+    }
+    .main-nav ul {
+        position: absolute;
+        display: none;
+        min-width: 250px;
+        box-shadow: 2px 4px 5px #595353;
+        background: #4e4e4e
+    }
+    .main-nav li:hover > ul {
+        display: block;
+        z-index: 999999
+    }
+    .main-nav ul li {
+        border-top: 1px solid rgba(255, 255, 255, 0.66)
+    }
+    .main-nav > li:hover {
+        color: #2377cf
+    }
+    .main-nav li:hover > a {
+        color: #ef1c25;
+        text-decoration: none;
+        transition: .5s
+    }
+    .main-nav ul a {
+        height: auto;
+        padding: 10px 20px;
+        color: #fff
+    }
+    .main-nav ul ul {
+        left: 100%;
+        top: -3%
+    }
+}
+
+@media (min-width:1200px) {
+    .testi-name:before {
+        position: absolute;
+        content: '';
+        border-style: solid;
+        left: 0;
+        top: 53%;
+        border-width: 3px 0 21px 16px;
+        border-color: rgba(0, 0, 0, 0) #683d2a #683d2a rgba(0, 0, 0, 0)
+    }
+}
+
+.below {
+    background-image: url(../images/down.png);
+    background-position: 50% 91%;
+    background-repeat: no-repeat
+}
+
+.side {
+    background-image: url(../images/next_1.png);
+    background-position: 96% center;
+    background-repeat: no-repeat
+}
+
+nav {
+    padding-right: 0!important;
+    padding-left: 0!important
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 0
+}
+
+.main-nav a {
+    text-transform: capitalize
+}
+
+.main-nav > li > a {
+    color: #353636;
+    font-size: 14px;
+    padding: 0 20px;
+    height: 45px;
+    line-height: 45px;
+    text-transform: uppercase
+}
+
+#showbutton {
+    display: block;
+    float: right
+}
+
+#showbutton:hover {
+    cursor: pointer
+}
+
+.main-nav li a img {
+    padding-top: 16px
+}
+
+.main-nav li.reser:focus > ul.reservationform {
+    display: block;
+    z-index: 999999
+}
